@@ -1,6 +1,6 @@
 [SYSTEM]
 System_Version=1
-System_GUI_Scale=1.1
+System_GUI_Scale=1.0
 System_Timeline_PixPerMin=15
 System_RateDisplayType=1
 System_DisplayWinds=0
@@ -9,9 +9,10 @@ System_Delay_Time_0=1
 System_Delay_Time_1=2
 System_Delay_Time_2=5
 System_Delay_Time_3=10
-System_Web_Path_DL=
-System_Web_Path_UL=
-System_Web_User_UL=
+System_Web_Path_DL=adbj.no/aman
+System_Web_Path_UL=ftp://ftp.adbj.no/
+System_Web_User_UL=aman@adbj.no
+System_Web_Password_UL=Polaris2023
 System_LoadInterval_Web=30
 
 Label_Highlight_Type=1
