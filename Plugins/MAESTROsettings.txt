@@ -15,9 +15,15 @@ System_Web_User_UL=aman@adbj.no
 System_Web_Password_UL=Polaris2023
 System_LoadInterval_Web=30
 
+Window_COTS_Pos=1900,1000,1
 Label_Highlight_Type=1
 Label_Rwy_Delay_Total=-11
 Label_Feeder_Delay_Total=-11
+
+Color_MenuBorder=50,50,50
+Color_MenuBackground=20,14,19
+Color_WindowBackground=20,14,19
+
 
 [ENGM]
 FEEDER:ADOPI:A:ENGM:ADOPI
